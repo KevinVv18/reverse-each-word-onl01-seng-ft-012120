@@ -7,6 +7,9 @@ def reverse_each_word(string)
   end
   
   r_array.join(" ")
-
   
 end
+
+def reverse_each_word_collect(string)
+  
+  
