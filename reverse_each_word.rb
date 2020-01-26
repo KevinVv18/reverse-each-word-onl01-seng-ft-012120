@@ -5,7 +5,7 @@ def reverse_each_word(sentence1)
 array.each do |array|
   array.reverse!
 end
-array
+array.reverse!
 
 
 end
